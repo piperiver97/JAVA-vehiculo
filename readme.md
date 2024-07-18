@@ -2,17 +2,17 @@
 
 <h2>Enunciado:</h2>
 Se requiere un programa que modele el concepto de un automóvil. Un automóvil tiene los siguientes atributos:
-<li>Marca: el nombre del fabricante.<li>
-<li>Modelo: año de fabricación.<li>
-<li>Motor: volumen en litros del cilindraje del motor de un automóvil.<li>
-<li>Tipo de combustible: valor enumerado con los posibles valores de gasolina, bioetanol, diésel, biodiésel, gas natural.<li>
-<li>Tipo de automóvil: valor enumerado con los posibles valores de carro de ciudad, subcompacto, compacto, familiar, ejecutivo, SUV.<li>
-<li>Número de puertas: cantidad de puertas.<li>
-<li>Cantidad de asientos: número de asientos disponibles que tiene el<li>
+<li>Marca: el nombre del fabricante.</li>
+<li>Modelo: año de fabricación.</li>
+<li>Motor: volumen en litros del cilindraje del motor de un automóvil.</li>
+<li>Tipo de combustible: valor enumerado con los posibles valores de gasolina, bioetanol, diésel, biodiésel, gas natural.</li>
+<li>Tipo de automóvil: valor enumerado con los posibles valores de carro de ciudad, subcompacto, compacto, familiar, ejecutivo, SUV.</li>
+<li>Número de puertas: cantidad de puertas.</li>
+<li>Cantidad de asientos: número de asientos disponibles que tiene el</li>
 vehículo.
-<li>Velocidad máxima: velocidad máxima sostenida por el vehículo en km/h.<li>
-<li>Color: valor enumerado con los posibles valores de blanco, negro, rojo, naranja, amarillo, verde, azul, violeta.<li>
-<li>Velocidad actual: velocidad del vehículo en un momento dado.<li>
+<li>Velocidad máxima: velocidad máxima sostenida por el vehículo en km/h.</li>
+<li>Color: valor enumerado con los posibles valores de blanco, negro, rojo, naranja, amarillo, verde, azul, violeta.</li>
+<li>Velocidad actual: velocidad del vehículo en un momento dado.</li>
 
 <h2>La clase debe incluir los siguientes métodos:</h2>
 Un constructor para la clase Automóvil donde se le pasen como parámetros los valores de sus atributos.
