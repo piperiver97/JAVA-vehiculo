@@ -20,11 +20,11 @@ public final class App {
         System.out.println("Velocidad actual = " + auto1.getVelocidadActual()); 
         auto1.desacelerar(20);
 
-        // Intentional speed limit violations to generate fines
+        
         auto1.acelerar(200);
         auto1.acelerar(60);
 
-        // Check if the vehicle has fines
+
         if (auto1.tieneMultas()) {
             System.out.println("El vehículo tiene multas.");
             System.out.println("Total de multas: " + auto1.calcularTotalMultas() + " unidades monetarias.");
