@@ -29,3 +29,4 @@ Agregar un método para determinar si un vehículo tiene multas y otro método p
 
 
 
+![77669690d68b36451166facad591fd01](https://github.com/user-attachments/assets/3bb250a5-518f-4358-ae95-bfae67c65599)
